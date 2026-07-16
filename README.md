@@ -1,5 +1,7 @@
 # Mis Gastos App
 
+> This project was built during university studies. Code comments and variable names are in Spanish, while this documentation is in English for accessibility.
+
 A personal finance management mobile application built with **Flutter** (frontend) and **Flask** (backend). It allows users to track expenses and incomes, visualize their balance, and manage recurring income entries — with Firebase powering the mobile auth & data layer, and a MySQL-backed Flask API providing an alternative backend.
 
 ---
